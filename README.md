@@ -1,8 +1,7 @@
-# Fetch v1.2
+#Fetch v1.2
 
 *Make API calls for easier web tracking info.*
 
- By now it make a API to LeetCode servers and fetch information about the quantity of each diffculty problemset you have solved.
- Using a GraphQL query to find these details about the given username which by default set to "AmirMahdi-Tizchang" (my own username).
+By now it makes an API to LeetCode servers and fetches information about the quantity of each difficulty problem set you have solved. Using a GraphQL query to find these details about the given username, which by default is set to "AmirMahdi-Tizchang" (my own username).
 
- > can be install on all iOS devices and also watchOS devices!
+>Can be installed on all iOS devices and also watchOS devices!
